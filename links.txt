@@ -1,0 +1,2 @@
+face detecton web cam
+https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
